@@ -1,0 +1,8 @@
+versión: "3.4"
+servicios:
+API:
+   compilación: ./ContosoTraders.Ui.Website/
+   ID de la aplicación: 36540dcd-7bc3-4e16-90ca-4decb9ff8c36
+   Secreto de la aplicación: i1R8Q~Hn8dHn86VlWE7xJtLR4FKTIcQBXcebqcv4
+web:
+   compilación: ./ContosoTraders.Api.Products
